@@ -8,6 +8,7 @@ Features
 * Hintergrund-Grafik und flüssige Animationen.
 * Erstellt in der BlueJ-Umgebung unter Verwendung einer Basis-Bibliothek.
 
-Demo
+Demo:
+
 Da man Java-Applets nicht direkt im Browser starten kann, habe ich ein kurzes Video aufgenommen, das das Gameplay zeigt:
 https://youtu.be/8gkunoqq4CE
